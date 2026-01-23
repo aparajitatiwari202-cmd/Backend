@@ -1,4 +1,3 @@
 {
-  "/page": "app/page.js",
-  "/testdb/route": "app/testdb/route.js"
+  "/page": "app/page.js"
 }
